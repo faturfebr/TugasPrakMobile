@@ -1,1 +1,94 @@
-{"result":[{"no":"1","name":"Aaron Ramsdale","birth_date":"1998-05-14","Position":"Goalkeeper","International":"England","Team":"Arsenal","Poster":"https://ibb.co/9c39Xw0"},{"no":"2","name":"William Saliba","birth_date":"2001-03-24","Position":"Defender","International":"France","Team":"Arsenal","Poster":"https://i.postimg.cc/cCr14PHF/Saliba.png"},{"no":"6","name":"Gabriel Magalhaes","birth_date":"1997-12-19","Position":"Defender","International":"Brazil","Team":"Arsenal","Poster":"https://i.postimg.cc/9fLjR1sK/MAGALH-ES.jpg"},{"no":"8","name":"Martin Odegaard","birth_date":"1998-12-17","Position":"MIDFIELDERS","International":"Norway","Team":"Arsenal","Poster":"https://i.postimg.cc/MpxT1Prp/Odegard.jpg"},{"no":"41","name":"Declan Rice","birth_date":"1999-01-14","Position":"MIDFIELDERS","International":"England","Team":"Arsenal","Poster":"https://i.postimg.cc/8CXzQ1k7/Rice.png"},{"no":"7","name":"Bukayo Saka","birth_date":"2001-09-05","Position":"FORWARDS","International":"England","Team":"Arsenal","Poster":"https://i.postimg.cc/brkytkxn/Saka.jpg"},{"no":"9","name":"Gabriel Jesus","birth_date":"1997-04-03","Position":"FORWARDS","International":"Brazil","Team":"Arsenal","Poster":"https://i.postimg.cc/d31RQQrg/Jesus.jpg"}]}
+{
+  "result": [
+  {
+    "no": "30",
+    "name": "Stephen Curry",
+    "birth_date": "3/14/1988",
+    "Position": "PG",
+    "International": "United States",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3975.png&w=350&h=254"
+  },
+  {
+    "no": "12",
+    "name": "Usman Garuba",
+    "birth_date": "3/9/2002",
+    "Position": "PF",
+    "International": "Spain",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4871143.png&w=350&h=254"
+  },
+  {
+    "no": "23",
+    "name": "Draymond Green",
+    "birth_date": "3/4/1990",
+    "Position": "PF",
+    "International": "United States",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6589.png&w=350&h=254"
+  },
+  {
+    "no": "32",
+    "name": "Trayce Jackson Davis",
+    "birth_date": "2/22/2000",
+    "Position": "F",
+    "International": "United States",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4431684.png&w=350&h=254"
+  },
+  {
+    "no": "1",
+    "name": "Cory Joseph",
+    "birth_date": "8/20/1991",
+    "Position": "PG",
+    "International": "Canada",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/6446.png&w=350&h=254"
+  },
+  {
+    "no": "00",
+    "name": "Jonathan Kuminga",
+    "birth_date": "10/6/2002 ",
+    "Position": "PF",
+    "International": "Democratic Republic of the Congo",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4433247.png&w=350&h=254"
+  },
+  {
+    "no": "5",
+    "name": "Kevon Looney",
+    "birth_date": "2/6/1996",
+    "Position": "F",
+    "International": "United States",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/3155535.png&w=350&h=254"
+  },
+  {
+    "no": "4",
+    "name": "Moses Moody",
+    "birth_date": "5/31/2002",
+    "Position": "SG",
+    "International": "United States",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4432171.png&w=350&h=254"
+  },
+  {
+    "no": "3",
+    "name": "Chris Paul",
+    "birth_date": "5/6/1985",
+    "Position": "PG",
+    "International": "United States",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/2779.png&w=350&h=254"
+  },
+  {
+    "no": "2",
+    "name": "Brandin Podziemski",
+    "birth_date": "2/25/2003",
+    "Position": "G",
+    "International": "United States",
+    "Team": "Golden State Warriors",
+    "Poster": "https://a.espncdn.com/combiner/i?img=/i/headshots/nba/players/full/4709138.png&w=350&h=254"
+  }
+ ]
+}
